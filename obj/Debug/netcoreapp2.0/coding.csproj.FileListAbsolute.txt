@@ -9,3 +9,14 @@ H:\coding\obj\Debug\netcoreapp2.0\coding.AssemblyInfoInputs.cache
 H:\coding\obj\Debug\netcoreapp2.0\coding.AssemblyInfo.cs
 H:\coding\obj\Debug\netcoreapp2.0\coding.dll
 H:\coding\obj\Debug\netcoreapp2.0\coding.pdb
+H:\coding\myRepo\bin\Debug\netcoreapp2.0\coding.deps.json
+H:\coding\myRepo\bin\Debug\netcoreapp2.0\coding.runtimeconfig.json
+H:\coding\myRepo\bin\Debug\netcoreapp2.0\coding.runtimeconfig.dev.json
+H:\coding\myRepo\bin\Debug\netcoreapp2.0\coding.dll
+H:\coding\myRepo\bin\Debug\netcoreapp2.0\coding.pdb
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.csprojResolveAssemblyReference.cache
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.csproj.CoreCompileInputs.cache
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.AssemblyInfoInputs.cache
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.AssemblyInfo.cs
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.dll
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "h:\\coding\\myRepo\\coding.csproj",
+      "projectUniqueName": "H:\\coding\\myRepo\\coding.csproj",
       "projectName": "coding",
-      "projectPath": "h:\\coding\\myRepo\\coding.csproj",
+      "projectPath": "H:\\coding\\myRepo\\coding.csproj",
       "packagesPath": "C:\\Users\\g516705\\.nuget\\packages\\",
-      "outputPath": "h:\\coding\\myRepo\\obj\\",
+      "outputPath": "H:\\coding\\myRepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

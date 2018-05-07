@@ -11,8 +11,8 @@ namespace people
          int age;
         public person()
         {
-           fname="fuck";
-           lname="off";
+           fname="Michael";
+           lname="LING";
            age=100;
             
         }
