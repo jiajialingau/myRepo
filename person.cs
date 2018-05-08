@@ -22,6 +22,7 @@ namespace people
         {
             Console.WriteLine("hi, I am "+fname+" "+lname);
             Console.WriteLine("I am "+age+" years old");
+            Console.WriteLine("Wecome to my new World!");
         }
 
         public void eating()
