@@ -1,4 +1,6 @@
 
+
+
 using System;
 using people;
 
@@ -11,6 +13,14 @@ public class run {
             a.welcome();
             a.eating();
             a.sleep();
+
+           int num;
+           Console.WriteLine("please input your number: ");
+           num=Convert.ToInt32(Console.ReadLine());
+
+           Console.WriteLine("you entered "+num);
+
+         
 
         }
 
