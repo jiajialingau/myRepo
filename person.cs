@@ -5,33 +5,25 @@ namespace people
 {
     public class person
     {
-        //person constructor
-         string fname;
-         string lname;       
-         int age;
-        public person()
-        {
-           fname="Michael";
-           lname="LING";
-           age=100;
-            
-        }
+        
 
         //person display method
-        public void welcome()
+        public void welcome(string fname, string lname, int age)
         {
+            Console.WriteLine(System.Environment.NewLine);
             Console.WriteLine("hi, I am "+fname+" "+lname);
             Console.WriteLine("I am "+age+" years old");
-            Console.WriteLine("Wecome to my new World!");
         }
 
-        public void eating()
+        public void eating(string fname, string lname)
         {
+            Console.WriteLine(System.Environment.NewLine);
             Console.WriteLine(fname+" "+lname+" ok, I'm eating now......");
         }
 
-        public void sleep()
+        public void sleep(string fname, string lname)
         {
+            Console.WriteLine(System.Environment.NewLine);
             Console.WriteLine(fname+" "+lname+" ok, I'm go to sleep, ZZZZ.........");
         }
 

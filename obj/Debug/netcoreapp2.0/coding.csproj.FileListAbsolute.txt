@@ -19,3 +19,4 @@ H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.AssemblyInfoInputs.cache
 H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.AssemblyInfo.cs
 H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.dll
 H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.pdb
+H:\coding\myRepo\obj\Debug\netcoreapp2.0\coding.csprojResolveAssemblyReference.cache
